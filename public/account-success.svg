@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" role="img" aria-labelledby="success-title success-description">
+  <title id="success-title">Account created</title>
+  <desc id="success-description">A violet thumbs-up surrounded by colorful celebration marks</desc>
+  <circle cx="160" cy="160" r="142" fill="#f1efff"/>
+  <path d="M76 36 98 62" fill="none" stroke="#ff8066" stroke-width="14" stroke-linecap="round"/>
+  <path d="M251 52 231 80" fill="none" stroke="#6158f5" stroke-width="14" stroke-linecap="round"/>
+  <path d="M276 220 308 208" fill="none" stroke="#f9c74f" stroke-width="14" stroke-linecap="round"/>
+  <path d="M126 146h17l14-31c3-7 10-9 17-5 11 7 15 19 11 32l-1 4h13c10 0 17 9 14 19l-11 35c-2 7-8 10-15 10h-59c-9 0-15-7-15-15v-34c0-9 6-15 15-15Z" fill="#6158f5"/>
+</svg>
